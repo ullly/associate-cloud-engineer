@@ -1,7 +1,5 @@
 # associate-cloud-engineer
 
-## Introduction
-
 Notes for the Google Cloud Certified Associate Cloud Engineer exam. These notes list the syllabus. For each item on the 
 syllabus, there is a link to the relevant Google Cloud documentation. These notes will help prepare for the exam.
 
